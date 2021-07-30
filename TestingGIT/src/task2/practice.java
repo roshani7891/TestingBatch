@@ -6,6 +6,8 @@ public class practice {
 		System.out.println("m1 method start");
 		System.out.println("m1 method");
 		System.out.println(" m1 method end");
+		System.out.println(" msg from chrome to project");
+		
 	}
 	
 public static void main(String[] args)
