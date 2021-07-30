@@ -6,6 +6,8 @@ public class git
 		System.out.println("this is git project demo");
 		
 		System.out.println("update");
+		System.out.println(" chrome update");
+		
 	}
 
 }
