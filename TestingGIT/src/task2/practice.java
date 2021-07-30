@@ -5,7 +5,7 @@ public class practice {
 	{
 		System.out.println("m1 method start");
 		System.out.println("m1 method");
-		System.out.println("method end");
+		System.out.println(" m1 method end");
 	}
 	
 public static void main(String[] args)
